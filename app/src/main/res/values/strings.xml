@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wifi Scanner ListView</string>
+    <string name="title_home">Home</string>
+    <string name="channel">"Channel: "</string>
+    <string name="db">" db"</string>
+    <string name="ssid">"SSID: "</string>
+    <string name="frequency">"Frequency: "</string>
+    <string name="frequency_range">"Frequency Range: "</string>
+    <string name="channel_width">"Channel Width: "</string>
+    <string name="security">"Security: "</string>
+    <string name="band">"Band: "</string>
+    <string name="bssid">"BSSID: "</string>
+    <string name="turning_on_wifi">"Turning on wifi...please wait"</string>
+    <string name="scanning">"Scanning...please wait"</string>
+    <string name="permissions">"Please enable permissions"</string>
+</resources>
